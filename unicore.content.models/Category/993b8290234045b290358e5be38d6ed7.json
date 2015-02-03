@@ -1,0 +1,20 @@
+{
+  "subtitle": "Baby Malay", 
+  "uuid": "993b8290234045b290358e5be38d6ed7", 
+  "language": "may_my", 
+  "title": "Bayi", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "Baby_Malay", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
