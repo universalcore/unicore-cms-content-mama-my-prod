@@ -4,17 +4,19 @@
   "language": "may_MY", 
   "title": "Usia 9 bulan", 
   "primary_category": "993b8290234045b290358e5be38d6ed7", 
-  "created_at": "2015-02-04T11:05:01.169695+00:00", 
+  "created_at": "2015-02-04T11:05:01+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-04T11:05:01.169904+00:00", 
+  "modified_at": "2015-02-04T13:40:01.809898+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "7c005a12f1254b45b417f1021d7bdab1"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nBayi anda sudah membiasakan diri dengan persekitarannya dan dia suka perkara-perkara yang dia sudah biasa. Pada usia ini, dia mungkin mahu melekat saja dengan anda dan perlu banyak perhatian. Dia mungkin lebih tenang jika dia boleh membawa selimut atau mainan kesukaan dengannya, supaya ada sesuatu yang mengingatkan dia pada bilik atau rumahnya ketika dia keluar. Masa yang tenang jauh dari kebisingan dan orang asing juga akan membantunya untuk menyesuaikan diri.\r\n\r\nSekarang, bayi anda ingat hal-hal, seperti di mana mainannya disimpan. Dia juga dapat meniru tindakan yang dilihatnya walaupun ia berlaku dua minggu yang lalu. Tapi dia masih belum boleh ingat segala-galanya. Memori kekal bayi anda mungkin tidak berkembang sehingga dia berusia dua atau tiga tahun.\r\n\r\nOcehan bayi anda mungkin mula kedengaran seperti kata-kata nyata. Bayi anda fikir dia mengatakan sesuatu, jadi anggaplah ia seolah-olah begitu! Dia akan belajar tentang percakapan dan riak wajah dari anda ketika anda bercakap dengannya dan melihatnya.\r\n\r\nBayi anda masih lebih memahami sesuatu daripada nada suara anda berbanding daripada kata-kata anda. Dia tahu bila dia telah membuat anda gembira, jadi berikan banyak pujian.\r\n\r\nKeperibadian bayi anda benar-benar keluar sekarang. Dia mungkin bergaul dan senyum pada semua orang yang ditemuinya, atau dia mungkin malu dan menyembunyikan mukanya. Bayi anda tahu bagaimana untuk mendapatkan perhatian anda, dan dia mungkin melambaikan tangan bila dia melihat anda pergi ke pintu.\r\n", 
   "source": "67088a0652234760a47076c1421d4f24", 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "9monthold_Malay_baby", 
   "uuid": "b0a65f6b7c914a42bb8c4ef0d10f5424"
