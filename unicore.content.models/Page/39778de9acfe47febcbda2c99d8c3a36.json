@@ -1,0 +1,29 @@
+{
+  "subtitle": "MAY Check-ups after birth", 
+  "description": "Memastikan anda berdua OK", 
+  "language": "may_MY", 
+  "title": "Pemeriksaan selepas bersalin", 
+  "primary_category": "993b8290234045b290358e5be38d6ed7", 
+  "created_at": "2015-04-23T10:45:56.086099+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-23T10:45:56.086477+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Dikarang oleh BabyCenter\r\n\r\nIa adalah baik, dan meyakinkan, untuk mendapat pemeriksaan kesihatan dalam beberapa minggu selepas bayi anda dilahirkan, untuk memastikan anda dan bayi anda adalah OK.\r\n\r\nJumpa doktor dengan bayi anda sekurang-kurangnya sekali pada minggu 1 dan sekali lagi ketika dia berusia 6 minggu.\r\n\r\nBawa bayi anda ke doktor dengan segera jika:\r\n\r\n -  Perutnya terlalu sejuk atau terlalu panas\r\n\r\n - \tMata, tangan dan kakinya nampak kuning pada hari-hari pertama\r\n\r\n - \tDia enggan menyusu atau lemah menghisap\r\n\r\n - \tDia tidak berhenti menangis atau jika tangisannya luar biasa\r\n\r\n - \tDia diserang sawan, terlalu mengantuk dan tidak banyak bergerak, atau kulit atau kukunya nampak kebiruan\r\n\r\n - \tDia berdehit, mendengus, atau bernafas dengan cepat\r\n\r\n - \tDia muntah setiap kali menyusu untuk lebih daripada sehari, atau perutnya bengkak\r\n\r\n - \tKawasan di sekitar baki tali pusatnya merah atau berbau\r\n\r\nIni adalah tanda-tanda bahawa bayi anda kurang sihat, dan memerlukan rawatan segera.\r\n\r\nIngat, kanak-kanak lelaki dan perempuan memerlukan jumlah pemeriksaan yang sama.\r\n\r\n", 
+  "source": "5caa00df86284a6f95f8a12d030a222d", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "may-check-ups-after-birth", 
+  "uuid": "39778de9acfe47febcbda2c99d8c3a36"
+}
