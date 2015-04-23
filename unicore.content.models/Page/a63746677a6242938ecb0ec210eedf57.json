@@ -1,0 +1,29 @@
+{
+  "subtitle": "MAY Why do I need minerals?", 
+  "description": "Mineral membantu perkembangan bayi yang sihat", 
+  "language": "may_MY", 
+  "title": "Mengapa saya memerlukan mineral", 
+  "primary_category": "2d37656cb84f45a1aa7dabf67b36fceb", 
+  "created_at": "2015-04-23T10:24:29.760653+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-23T10:24:29.760880+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Dikarang oleh BabyCenter\r\n\r\nMineral membantu anda menjaga kesihatan dan mengandung bayi yang sihat. Jika anda makan makanan dari 4 kumpulan utama yang berikut, anda akan mendapat mineral yang diperlukan.\r\n\r\n - \tBuah-buahan dan sayur-sayuran. Buah-buahan dan sayur- sayuran yang berlainan warna akan memberi anda banyak kebaikan.\r\n\r\n - \tMakanan berkanji yang mengenyangkan, seperti nasi dan kentang. Berdasarkan sajian anda sekitar makanan berkanji. Ini akan memberi anda banyak tenaga.\r\n\r\n - \tMakanan yang kaya dengan protein, seperti tauhu, telur, ikan, ayam dan daging. Makanan ini juga merupakan sumber baik zat besi. Mereka akan membantu anda mengekalkan kekuatan.\r\n\r\n -  Makanan yang kaya dengan kalsium seperti susu soya, santan dan tauhu.\r\n\r\nMenambah garam beriodin ke dalam makanan anda akan memberikan anda iodin. Jika garam mengandungi iodin, ia akan berkata begitu pada paket bungkusannya. Anda memerlukan banyak iodin dalam diet anda untuk membantu otak bayi anda berkembang. Cuba untuk mendapatkan sedikit setiap hari.\r\n\r\nDengan makan pelbagai makanan ini, anda akan kekal sihat dan kuat, serta mengandung bayi yang sihat.\r\n\r\n", 
+  "source": "35dbb275ae074fd2b9c66788528dba8e", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "may-why-do-i-need-minerals", 
+  "uuid": "a63746677a6242938ecb0ec210eedf57"
+}
