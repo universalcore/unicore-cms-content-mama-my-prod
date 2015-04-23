@@ -1,0 +1,29 @@
+{
+  "subtitle": "MAY Why do I get headaches?", 
+  "description": "Hormon kehamilan boleh menyebabkan sakit kepala", 
+  "language": "may_MY", 
+  "title": "Mengapa saya sakit kepala?", 
+  "primary_category": "2d37656cb84f45a1aa7dabf67b36fceb", 
+  "created_at": "2015-04-23T08:55:17.471672+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-23T08:55:17.471953+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Dikarang oleh BabyCenter\r\n\r\nAdalah perkara biasa untuk mengalami sakit kepala semasa hamil, terutamanya dalam 3 bulan pertama.\r\n\r\nSakit kepala mungkin disebabkan oleh hormon kehamilan. Rasa letih atau tertekan boleh menegangkan otot-otot anda dan menyebabkan sakit kepala. Tidak makan dan kelaparan mungkin menyebabkan sakit kepala. Atau tidur yang lebih daripada biasa, atau terlalu sedikit tidur.\r\n\r\nBerikut adalah beberapa perkara yang boleh anda lakukan:\r\n\r\n - \tPastikan anda boleh berehat pada waktu siang. Terangkan kepada keluarga anda yang anda perlu lebih berehat. Duduk atau baring di tempat yang tenang, dan tidur jika anda perlu.\r\n\r\n - \tCelup kain dalam air bersih yang panas dan perahkan untuk membuat pad hangat. Letakkannya di sekitar mata dan hidung. Atau anda boleh cuba kain sejuk di dahi atau di pangkal leher anda.\r\n\r\nMinta seseorang untuk mengurut leher dan bahu anda.\r\n\r\nTanda-tanda bahaya? Sakit kepala, penglihatan kabur dan sakit di bawah tulang rusuk anda mungkin tanda-tanda tekanan darah tinggi. Pergi berjumpa doktor secepat mungkin jika anda merasa begini.\r\n\r\n", 
+  "source": "75966ca975f54af887780f47fdc96a81", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "may-why-do-i-get-headaches", 
+  "uuid": "cb40f97432814160bd7a47de91c978bc"
+}
