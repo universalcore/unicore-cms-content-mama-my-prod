@@ -1,0 +1,29 @@
+{
+  "subtitle": "MAY Danger signs at the birth", 
+  "description": "Bila anda memerlukan bantuan", 
+  "language": "may_MY", 
+  "title": "Tanda-tanda bahaya semasa pelahiran", 
+  "primary_category": "2d37656cb84f45a1aa7dabf67b36fceb", 
+  "created_at": "2015-04-23T10:35:28.195142+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-23T10:35:28.195405+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Dikarang oleh BabyCenter\r\n\r\nJika anda mendapati mana-mana perkara-perkara ini berlaku, pergi berjumpa doktor atau ke hospital secepat mungkin.\r\n\r\n**Anda:**\r\n\r\n - \tJika air ketuban anda sudah pecah tetapi pelahiran masih belum bermula selepas 6 jam\r\n\r\n - \tAnda sudah menghadapi kontraksi selama lebih 12 jam, tetapi bayi masih belum datang\r\n\r\n - \tAnda mengalami pendarahan yang teruk dan menggunakan 2 hingga 3 pad dalam 15 minit\r\n\r\n - \tPlasenta (uri) anda belum keluar, dan telah 1 jam selepas kelahiran bayi anda\r\n\r\n**Bayi anda:**\r\n\r\n - \tBayi anda tidak menangis bila lahir, atau mengalami kesukaran bernafas\r\n\r\n - \tBayi anda tidak berupaya menyusui\r\n\r\n - \tBayi anda demam, atau terasa sejuk\r\n\r\n - \tBayi anda sangat kecil (kurang daripada 1500 gram atau dilahirkan lebih awal dari 32 minggu)\r\n\r\n - \tBayi anda diserang sawan\r\n\r\n", 
+  "source": "66d10b3f6a6b4b3f8cc8dc95208b63fe", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "may-danger-signs-birth", 
+  "uuid": "568ae031f20c49d89b2400a2be8cd768"
+}
