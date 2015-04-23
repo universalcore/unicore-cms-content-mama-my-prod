@@ -1,0 +1,29 @@
+{
+  "subtitle": "MAY Warning signs", 
+  "description": "Bila perlu mendapatkan bantuan perubatan", 
+  "language": "may_MY", 
+  "title": "Tanda-tanda amaran", 
+  "primary_category": "2d37656cb84f45a1aa7dabf67b36fceb", 
+  "created_at": "2015-04-23T09:45:14.849990+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-23T09:45:14.850260+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Dikarang oleh BabyCenter\r\n\r\nBadan anda berubah dalam pelbagai cara dalam kehamilan, dan memang biasa untuk tertanya-tanya jika anda perlu bimbang tentang perubahan ini.\r\n\r\n**Ini adalah normal** Adakah anda tiba-tiba letih, tiba-tiba tidak, rasa loya bila bangun pagi, makanan tak dicerna, kencing lebih kerap, kulit berubah-ubah? Rasa sesak nafas? Selamat datang ke kehamilan!\r\n\r\n**Berikut adalah tanda-tanda amaran** Jumpa doktor sekiranya anda mengalami:\r\n\r\n - \tSakit di perut anda\r\n\r\n - \tDemam\r\n\r\n - \tPenglihatan kabur dan anda melihat tompok-tompok di depan mata\r\n\r\n - \tCairan meleleh dari faraj anda\r\n\r\n - \tSakit bila kencing\r\n\r\n - \tAnda sudah hamil lebih 5 bulan, dan bayi anda berhenti menendang atau banyak kurang menendang\r\n\r\n - \tAnda mengalami pendarahan berat atau pendarahan dengan kesakitan.\r\n\r\n", 
+  "source": "74fff0522932413bbcf037c49e7995d8", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "may-warning-signs", 
+  "uuid": "1cd664a433eb47d9881e8a5ae6822cf3"
+}
