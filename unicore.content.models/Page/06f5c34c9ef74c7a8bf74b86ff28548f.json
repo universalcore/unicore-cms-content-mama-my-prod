@@ -1,0 +1,29 @@
+{
+  "subtitle": "MAY Why have a tetanus vaccination?", 
+  "description": "Melahirkan anak mendedahkan anda kepada risiko", 
+  "language": "may_MY", 
+  "title": "Mengapa perlu suntikan kancing gigi (tetanus)?", 
+  "primary_category": "2d37656cb84f45a1aa7dabf67b36fceb", 
+  "created_at": "2015-04-23T10:05:00.664579+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-23T10:05:00.664766+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Dikarang oleh BabyCenter\r\n\r\nTetanus adalah penyakit yang serius dan berbahaya untuk wanita hamil dan bayi yang baru lahir. Anda perlu mendapatkan pelaliannya supaya anda dan bayi anda tidak mendapat tetanus.\r\n\r\nAnda boleh mendapatkan tetanus melalui luka atau lecur. Melahirkan mendedahkan anda dan bayi kepada risiko tetanus. Vaksin tetanus boleh melindungi anda berdua.\r\n\r\nAnda mungkin boleh mendapat vaksin tetanus percuma di klinik atau hospital kerajaan. Tanya doktor anda. Anda perlu 1 suntikan pada lawatan pertama dan satu lagi sekurang- kurangnya satu bulan kemudian.\r\n\r\nAnda akan mendapat vaksinasi ini melalui suntikan. Lengan anda mungkin sedikit merah dan bengkak di mana jarum dimasukkan. Anda mungkin merasa agak kurang sihat, tetapi ia tidak akan bertahan lama. Letakkan sesuatu yang sejuk pada lengan anda, jika kawasan itu menyakitkan, dan berehat.\r\n\r\nVaksinasi akan melindungi anda daripada kuman, tetapi tidak berupaya jika anda sudah menghidap penyakit itu. Jadi dapatkan vaksinasi apabila anda tidak sakit. Jangan tunggu sehingga anda sakit kerana itu sudah terlalu lewat dan vaksinasi tidak akan membantu.\r\n\r\n", 
+  "source": "1efecdf5ee3e4c0cb640079416986e29", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "may-why-have-tetanus-vaccination", 
+  "uuid": "06f5c34c9ef74c7a8bf74b86ff28548f"
+}
