@@ -1,0 +1,29 @@
+{
+  "subtitle": "MAY Stop smoking", 
+  "description": "Rokok membahayakan anda dan bayi anda", 
+  "language": "may_MY", 
+  "title": "Berhenti merokok", 
+  "primary_category": "2d37656cb84f45a1aa7dabf67b36fceb", 
+  "created_at": "2015-04-23T10:15:26.022530+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-23T10:15:26.022790+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Dikarang oleh BabyCenter\r\n\r\nCuba untuk berhenti merokok. Ia akan membuat anda dan bayi anda lebih sihat, dan menjimatkan wang anda! Anda boleh menggunakan wang itu untuk membeli barangan yang anda dan bayi anda perlukan.\r\n\r\nMerokok semasa hamil boleh menyebabkan bayi anda lemah dan mudah sakit. Ia juga tidak baik untuk bayi anda apabila anda menyusuinya.\r\n\r\nAnda boleh meminta bantuan keluarga untuk berhenti merokok. Beritahu mereka bahawa asap di dalam rumah juga tidak baik untuk bayi. Mungkin anda semua boleh bersama- sama berhenti merokok. Anda perlu meminta sesiapa yang merokok di dalam rumah untuk merokok di luar, kini anda hamil.\r\n\r\nJika anda merokok, kurangkan atau berhenti. Ia mungkin sukar, tetapi pasti sesuatu yang baik untuk bayi anda.\r\n\r\nBermula dengan mengurangkan sedikit setiap hari. Jika anda mendapati ia benar-benar sukar, berbincang dengan doktor anda.\r\n\r\n", 
+  "source": "5efdb30029a94475a51c996197d31ea0", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "may-stop-smoking", 
+  "uuid": "0f9ed5c5994b498c971d08f5f4a16974"
+}
