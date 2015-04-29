@@ -6,15 +6,18 @@
   "primary_category": "993b8290234045b290358e5be38d6ed7", 
   "created_at": "2015-04-23T10:42:49+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-23T11:28:31.019225+00:00", 
+  "modified_at": "2015-04-29T11:56:38.929897+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "b7104906c793462ba3b2a7ee69ef3e27", 
+    "cae1f18342504309844c21376edaca95"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nJika bayi anda menyusu sekurang-kurangnya 6 hingga 8 kali sehari, dan anda selesa menyusuinya, dia mendapat susu yang cukup. Anda akan boleh melihat dia menelan ketika menyusu, dan payudara anda akan berasa lebih kosong dan lembut selepas penyusuan.\r\n\r\nSatu lagi petanda yang baik adalah jika bayi anda bertukar rentak semasa menghisap dan berhenti sejenak semasa penyusuan. Dia akan menyusu lagi apabila sudah bersedia, dan berhenti bila dia mahu.\r\n\r\nLampin bayi juga boleh menunjukkan jika bayi anda mendapat susu yang cukup. Najis dia harus berwarna kuning dan dia harus berak sekurang-kurangnya sekali sehari. Apabila anda menukar lampinnya, air kencingnya harus pucat dan seharusnya tidak mempunyai bau. Lampinnya harus basah sekurang-kurangnya 6 hingga 8 kali setiap hari.\r\n\r\nBayi yang mendapat susu yang mencukupi akan mempunyai kulit yang sihat dan cerah yang melantun balik bila dicubit dengan lembut.\r\n\r\nJika anda bimbang bahawa bayi anda tidak mendapat susu yang cukup, tanya seorang jururawat atau doktor. Mereka boleh memeriksa yang bayi anda sihat.\r\n\r\n", 
   "source": "4b24c636b80d43298eb7449768de1e17", 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 39, 
+  "position": 38, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "may-she-getting-enough-milk", 
   "uuid": "b988a184218c457291ebb477a633bcf6"
