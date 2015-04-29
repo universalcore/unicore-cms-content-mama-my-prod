@@ -6,15 +6,18 @@
   "primary_category": "993b8290234045b290358e5be38d6ed7", 
   "created_at": "2015-04-23T10:42:14+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-23T11:28:20.148503+00:00", 
+  "modified_at": "2015-04-29T11:56:39.038491+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "b988a184218c457291ebb477a633bcf6", 
+    "cae1f18342504309844c21376edaca95"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nAnda dan bayi anda bersama-sama belajar mengenai penyusuan badan. Duduk dengan selesa dengan 1 atau 2 bantal untuk menyokong anda. Bayi anda perlu berada pada tahap yang sama dengan payudara anda.\r\n\r\nPusingkan bayi hingga perutnya menghadap dada anda. Dia mungkin memusing kepalanya dari sisi ke sisi, membuat bunyi-bunyi menghisap. Ini bermakna dia sudah bersedia untuk menyusu dan sedang mencari payudara anda.\r\n\r\nUsap pipinya dengan puting anda. Dia akan menoleh ke arahnya dan membuka mulutnya. Bila dia membuka mulut, bawa dia ke payudara anda. Dia juga perlu memasukkan ke dalam mulutnya bahagian payudara yang lebih gelap di sekeliling puting anda untuk mendapatkan susu. Dia akan meletakkan lidahnya di bawah payudara anda untuk mendapatkan susu, jadi dia juga perlu memasukkan sebahagian payudara anda ke dalam mulut.\r\n\r\nBerikut adalah 3 cara untuk mengetahui bayi anda menyusu dengan betul:\r\n\r\nLihat! Adakah dia memasukkan ke dalam mulut banyak bahagian payudara yang lebih gelap di sekitar puting anda? Bolehkah anda melihat rahang dia bergerak naik turun sambil dia menghimpit susu dari payudara anda?\r\n\r\nDengar! Bolehkah anda mendengar dia menggogok susu, dan berehat selepas menelan?\r\n\r\nRasa! Menyusui tidak harus menyakitkan! Jika puting anda sakit, dia tidak melekap dengan betul. Hentikan hisapan dengan meletakkan jari anda di mulutnya. Tunggu sehingga mulutnya terbuka luas dan kemudian bawa dia ke payudara lagi. Bawa bayi anda untuk pemeriksaan doktor jika dia tidak menyusu dengan betul.\r\n\r\nIngat, kanak-kanak perempuan perlu susu badan sama seperti kanak-kanak lelaki.\r\n\r\n", 
   "source": "4c76f65e49d44cc09386039c2e04fdfb", 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 40, 
+  "position": 39, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "may-help-your-baby-breastfeed", 
   "uuid": "b7104906c793462ba3b2a7ee69ef3e27"
