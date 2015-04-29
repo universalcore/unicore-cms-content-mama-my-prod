@@ -6,15 +6,19 @@
   "primary_category": "993b8290234045b290358e5be38d6ed7", 
   "created_at": "2015-04-23T10:36:34+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-23T11:26:44.534908+00:00", 
+  "modified_at": "2015-04-29T11:56:40.145428+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "3c341af6a84c4fcfaa501cac482b1e8e", 
+    "d805339fd0d345e6b09faab949d90a1b", 
+    "45883d25967a48d9ae1a7a8e1c0c2e1f"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nSetelah bayi anda dilahirkan, badan anda melahirkan uri, yang dipanggil plasenta. Anda akan merasa kontraksi lagi, tetapi lebih lemah kali ini.\r\n\r\nPeluk bayi pada kulit anda. Dia akan mencari payudara anda untuk menghisap. Tawarkan payudara anda secepat mungkin. Menyusui begini akan meningkatkan kontraksi anda untuk membuat plasenta keluar dengan lebih mudah. Duduk tegak untuk membantu badan anda untuk menolak uri keluar.\r\n\r\nPlasenta, dan ketuban yang kosong, akan jatuh ke bahagian bawah rahim anda. Semuanya akan keluar melalui faraj anda.\r\n\r\nPeluk bayi anda. Merapatkan dia pada kulit anda akan membantunya mengekalkan kehangatan, membantu dia untuk menyusui dan membantu untuk mengurangkan jumlah pendarahan anda.\r\n\r\nAmbil masa untuk berehat selepas kelahiran dan mengenali bayi anda. Anda akan memerlukan beberapa pad atau kain untuk menyerap pendarahan. Pendarahan berat pada mulanya, seperti haid yang banyak. Ia akan menjadi lebih ringan. Pendarahan boleh berterusan untuk beberapa minggu selepas kelahiran bayi anda.\r\n\r\n", 
   "source": "83a6057c08ea4774bff145ade6c0e3dd", 
@@ -22,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 48, 
+  "position": 47, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "may-hold-your-newborn-close", 
   "uuid": "d7cbe6311328455997682e2458d59dfc"
