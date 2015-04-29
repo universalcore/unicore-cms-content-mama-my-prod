@@ -6,15 +6,18 @@
   "primary_category": "993b8290234045b290358e5be38d6ed7", 
   "created_at": "2015-04-23T10:37:58+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-23T11:27:24.422821+00:00", 
+  "modified_at": "2015-04-29T11:56:39.932527+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "ee60aea584da466991a5ebf478d34847", 
+    "636df7a7a9d8433db665d8d84aacc740"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nIa adalah penting untuk menghangatkan bayi anda sebaik sahaja dia dilahirkan. Bayi tidak boleh menyesuaikan diri dengan suhu baru, yang lebih sejuk, di luar rahim, dan boleh kehilangan haba dengan cepat.\r\n\r\nApabila bayi dilahirkan, dia basah, jadi keringkan dia.\r\n\r\nDia tidak perlu mandi untuk sekurang-kurangnya 6 jam. Untuk 6 jam pertama kehidupan bayi anda, hanya bersihkan baki tali pusatnya. Bayi anda tidak perlu mandi. Mandi terlalu awal boleh membuat dia sakit dan sejuk.\r\n\r\nMinta bidan atau jururawat anda meletakkan bayi pada dada anda. Kehangatan badan anda akan membantu menghalangnya daripada menjadi terlalu sejuk. Peluk dia dengan rapat supaya dia tidak tergelincir dan jatuh.\r\n\r\nGunakan selimut hangat yang bersih untuk anda berdua. Ini akan memelihara haba. Anda boleh membuat kain gendong untuk memastikan dia selamat. Juga pakaikan topi kecil atau kain pembalut di atas kepalanya. Bayi kehilangan banyak haba melalui kepala mereka.\r\n\r\nMenghangatkan bayi anda melalui sentuhan kulit ke kulit juga akan memberikan anda dan bayi masa untuk mengenali satu sama lain. Anda boleh melihat siapa yang telah menendang anda selama ini! Memeluk bayi anda dengan cara ini juga bermakna bahawa bayi anda boleh mencapai payudara anda dengan mudah dan mula menyusu.\r\n\r\n", 
   "source": "ea1b6c5fd12a44e49eb7ae70391e3924", 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 46, 
+  "position": 45, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "may-how-keep-my-baby-warm", 
   "uuid": "481b7f274ebf43a0b6f5c34d8ef68474"
