@@ -6,15 +6,18 @@
   "primary_category": "993b8290234045b290358e5be38d6ed7", 
   "created_at": "2015-04-23T10:43:39+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-23T11:28:39.446675+00:00", 
+  "modified_at": "2015-04-29T11:56:38.846175+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "99aacf8eccdf40a5b5e83c13aedcf9c0", 
+    "b988a184218c457291ebb477a633bcf6"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nCari jag atau mangkuk untuk susu anda. Basuh dengan baik dan bilas dengan air mendidih untuk membunuh kuman.\r\n\r\nBasuh tangan anda dan cari tempat yang selesa sama seperti jika anda menyusui bayi.\r\n\r\nUrut bahagian belakang puting anda perlahan-lahan dan dengan lancar, untuk membantu susu yang jauh di dalam payudara anda mengalir.\r\n\r\nKemudian, dengan ibu jari dan telunjuk, buatkan bentuk separuh bulat yang besar di sekitar payudara anda. Perlahan- lahan bawakan ibu jari dan telunjuk bersama, kira sampai nombor 3, dan lepaskan.\r\n\r\nTerus perah dan lepas sehingga anda nampak susu keluar dari puting. Bersabar, ia mungkin mengambil sedikit masa.\r\n\r\nMemikirkan bayi anda boleh membantu susu mengalir.\r\n\r\nTukar payudara apabila aliran berkurang.\r\n\r\nSelepas memerah susu ke dalam mangkuk, tutupkan dengan penutup yang bersih. Ini akan menghindarkan serangga, habuk dan kuman daripada susu anda.\r\n\r\nCari tempat yang sejuk untuk menyimpan susu anda. Jika anda tiada peti sejuk, cari tempat di rumah anda yang jauh daripada sebarang haba atau cahaya matahari. Anda boleh menyimpan susu badan di tempat yang sejuk ini untuk selama 4 jam.\r\n\r\nJika anda rasa leceh memerah susu badan anda begini, ingatlah bahawa susu badan anda adalah benar-benar sihat untuk bayi anda. Lebih banyak anda lakukan, lebih mudah anda akan mendapatinya dan lebih cepat anda akan berjaya lakukan!\r\n\r\n", 
   "source": "c35f1ba951ac412ba0d53d8e3abcfdd1", 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 38, 
+  "position": 37, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "may-how-squeeze-out-my-breastmilk", 
   "uuid": "392880784f0144f1a1ebf528ca536a8b"
