@@ -6,15 +6,19 @@
   "primary_category": "993b8290234045b290358e5be38d6ed7", 
   "created_at": "2015-04-23T10:41:31+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-23T11:28:12.467314+00:00", 
+  "modified_at": "2015-04-29T11:56:39.200632+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "b7104906c793462ba3b2a7ee69ef3e27", 
+    "b988a184218c457291ebb477a633bcf6", 
+    "cae1f18342504309844c21376edaca95"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nTerdahulu, tuangkan secawan air yang bersih dan selamat, letakkan di mana anda mudah capai. Menyusui boleh membuat anda dahaga.\r\n\r\nKemudian cari tempat yang selesa untuk duduk, di mana anda boleh memegang bayi anda dalam kedudukan yang tidak akan membuat lengan dan belakang anda sakit. Pastikan bahagian belakang pinggang anda disokong dan anda tidak bersandar ke belakang.\r\n\r\nSediakan bantal atau selimut untuk membantu anda menyokong bayi anda. Cuba kedudukan yang berbeza. Ramai ibu mendapati yang memangku bayi dengan lengan disokong oleh kusyen atau bantal, adalah cara yang baik. Atau letakkan bayi di bawah lengan anda sehingga kakinya menunjuk ke belakang dan kepalanya selaras dengan payudara anda. Buat apa yang paling sesuai untuk anda.\r\n\r\nApabila anda berdua berada dalam posisi yang cukup relaks, tibalah masa untuk bayi anda mengambil payudara ke dalam mulutnya dan mula menyusu. Ini dipanggil melekap.\r\n\r\nPenyusuan bayi anda boleh mengambil masa dari 5 hingga 40 minit. Jika anda mendapati bunyi bising mengganggu, cari tempat yang tenang. Jika anda bosan, cuba pasangkan radio atau duduk dengan rakan untuk berbual.\r\n\r\n", 
   "source": "d22ad2bf2def469bab3952e5d328c235", 
@@ -22,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 41, 
+  "position": 40, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "may-breastfeeding-how-start", 
   "uuid": "13f1163b2e014400846a24b39fe04a8b"
