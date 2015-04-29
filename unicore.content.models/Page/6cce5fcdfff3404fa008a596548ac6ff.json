@@ -6,15 +6,18 @@
   "primary_category": "993b8290234045b290358e5be38d6ed7", 
   "created_at": "2015-04-23T10:40:53+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-23T11:28:00.569280+00:00", 
+  "modified_at": "2015-04-29T11:56:39.300352+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "cae1f18342504309844c21376edaca95", 
+    "362b5394d5fe4bd6bb7624849093ce25"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nJika anda hidup dengan HIV, anda mungkin tertanya-tanya jika penyusuan badan adalah satu perkara yang baik.\r\n\r\nIngat, anda boleh mengurangkan risiko jangkitan HIV kepada bayi anda dengan memberi dia hanya susu badan dan ubat antiretroviral (ARV) setiap hari. Jangan lupa untuk membawa bayi anda ke hospital bila dia berusia 6 minggu untuk ujian HIV.\r\n\r\nBayi anda akan memerlukan banyak makanan untuk berkembang. Makanan yang terbaik untuknya ialah susu badan anda. Susu anda penuh dengan kebaikan yang sempurna untuk bayi anda. Ia mempunyai semua yang diperlukannya untuk berkembang maju dan kuat. Ia juga boleh membantu melindunginya dari beberapa penyakit.\r\n\r\nJika anda menyusukan bayi hanya susu badan dan tidak apa- apa lagi, walaupun air, untuk 6 bulan pertama, anda boleh membantu memberikannya permulaan hidup yang terbaik. Walaupun anda perlu kembali bekerja sebelum masa ini, anda boleh memerah susu badan dan simpan. Jururawat anda boleh mengajar anda bagaimana untuk melakukan ini.\r\n\r\nHargai betapa istimewanya susu badan anda and susui bayi sekerap yang dia mahu. Biar dia menyusu sehingga cukup. Ini akan memastikan dia sihat dan bahagia.\r\n\r\n", 
   "source": "b2d607e8ce624b148e346ab32699a8c3", 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 42, 
+  "position": 41, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "may-breastmilk-combats-hiv", 
   "uuid": "6cce5fcdfff3404fa008a596548ac6ff"
