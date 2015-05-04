@@ -6,15 +6,17 @@
   "primary_category": "993b8290234045b290358e5be38d6ed7", 
   "created_at": "2015-04-23T10:56:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-23T11:31:42.406133+00:00", 
+  "modified_at": "2015-05-04T08:27:13.172360+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "39778de9acfe47febcbda2c99d8c3a36"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nMendapatkan suntikan vaksinasi bagi bayi anda adalah salah satu perkara yang terbaik yang boleh anda lakukan sebagai seorang ibu.\r\n\r\nIngat: anda dan bayi anda perlu mendapatkan pemvaksinan apabila anda berdua sihat dan tidak sakit. Pemvaksinan tidak boleh menyembuhkan penyakit selepas ia bermula.\r\n\r\nJika anda dan bayi anda mendapat pemvaksinan, ia bermakna bahawa anda boleh melawan penyakit serius itu jika anda dijangkiti. Anda tidak boleh mendapatkan vaksin jika anda sudah sakit, jadi dapatkannya apabila anda berdua sedang sihat.\r\n\r\nPemvaksinan boleh membantu bayi anda untuk melawan beberapa penyakit yang paling berbahaya. Ini akan melindungi anda berdua dari penderitaan dan kesusahan. Tiada ibu yang suka melihat bayinya sakit.\r\n\r\nBayi anda perlu mendapatkan vaksin semasa dia sihat dan adalah penting untuk mengikut jadual dengan tepat.\r\n\r\nBayi anda akan memerlukan lebih daripada 1 dos untuk beberapa vaksin. Jika anda ingin tahu apa vaksin yang diperlukan bayi anda dan bila, tanya doktor atau jururawat. Mereka akan memberitahu anda bila bayi perlu diberi pelalian.\r\n\r\n", 
   "source": "def91ff89f514252bda5edb568c8bd0a", 
