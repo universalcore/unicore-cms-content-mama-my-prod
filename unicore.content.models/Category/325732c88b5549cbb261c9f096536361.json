@@ -1,0 +1,20 @@
+{
+  "subtitle": "What is BabyCenter?", 
+  "uuid": "325732c88b5549cbb261c9f096536361", 
+  "language": "may_MY", 
+  "title": "Mengenai BabyCenter", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "about-babycenter", 
+  "source": "c3b3e501a989441989b25971ac4b1339", 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
