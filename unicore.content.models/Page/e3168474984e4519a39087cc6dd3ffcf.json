@@ -6,19 +6,19 @@
   "primary_category": "2d37656cb84f45a1aa7dabf67b36fceb", 
   "created_at": "2015-04-23T09:30:24+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-29T12:43:26.384891+00:00", 
+  "modified_at": "2016-04-23T11:16:19.991609+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "1cd664a433eb47d9881e8a5ae6822cf3", 
-    "056fa9c9e2c241daa119846787d0a0dc", 
+    "4ae425ebf9b9413397b9c386fbbef6c5", 
     "632b25c6ab254fe6894ddc5eb72fa73e", 
-    "4ae425ebf9b9413397b9c386fbbef6c5"
+    "1cd664a433eb47d9881e8a5ae6822cf3", 
+    "056fa9c9e2c241daa119846787d0a0dc"
   ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nKesakitan dan kekejangan dalam perut anda semasa hamil adalah normal. Biasanya, tiada apa yang perlu dibimbangkan. Badan anda sedang berubah untuk menyokong bayi anda, dan rahim anda meregang untuk memuatkan bayi sepanjang tumbesarannya.\r\n\r\nRehat biasanya melegakan kekejangan. Cuba relaks. Duduk untuk seketika dan naikkan kaki anda, atau baring mengiring bertentangan di mana kesakitan itu berlaku.\r\n\r\nKadang-kadang sakit perut boleh bermaksud sesuatu yang lebih serius:\r\n\r\n -  Kejang perut, pendarahan dan sakit di tengah-tengah bahagian bawah perut pada awal kehamilan boleh bermakna anda keguguran. Pergi ke hospital jika anda berasa seperti ini. Jika pendarahan berat dan anda memerlukan lebih daripada 1 pad setiap jam, anda perlu segera ke hospital.\r\n\r\n -  Kekejangan yang menyakitkan yang bermula pada sebelah bahagian perut dan merebak ke seluruh perut anda mungkin bermakna bahawa kehamilan anda berkembang di tempat yang salah. Anda juga mungkin mengalami pendarahan yang cair dan berwarna gelap. Ini berlaku pada awal kehamilan. Pergi ke hospital dengan segera.\r\n\r\nPada akhir kehamilan, jika anda mengalami sakit di bahagian bawah perut, berserta sakit belakang, kekejangan perut dan cirit-birit, ia mungkin bermakna bahawa bayi anda sedang cuba dilahirkan sebelum cukup bulan. Pergi ke hospital jika, pada akhir kehamilan, anda mengalami sakit dengan kerap, pendarahan atau air ketuban anda pecah.\r\n\r\n", 
@@ -27,7 +27,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 39, 
+  "position": 36, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "may-i-have-pain-my-belly", 
   "uuid": "e3168474984e4519a39087cc6dd3ffcf"
