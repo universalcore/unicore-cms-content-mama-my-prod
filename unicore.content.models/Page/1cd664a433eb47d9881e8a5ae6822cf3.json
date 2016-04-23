@@ -6,12 +6,12 @@
   "primary_category": "e2a287abe22a47ef8e85c287ad2e5648", 
   "created_at": "2015-04-23T09:45:14+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-12-12T08:46:23.786156+00:00", 
+  "modified_at": "2016-04-23T11:17:49.130572+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -31,7 +31,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 34, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "may-warning-signs", 
   "uuid": "1cd664a433eb47d9881e8a5ae6822cf3"
