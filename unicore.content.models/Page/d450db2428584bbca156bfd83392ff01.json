@@ -6,21 +6,21 @@
   "primary_category": "2d37656cb84f45a1aa7dabf67b36fceb", 
   "created_at": "2015-04-23T09:55:17+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-29T12:43:25.496310+00:00", 
+  "modified_at": "2016-04-23T11:16:19.546355+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "cc2b9f2dd2804de7b856472f3993503d", 
-    "2b5488c3427a4a61b67f149e1b6fdbe5", 
-    "1e13a14de7f8456a9d34e6d7f8af68c3", 
     "6543180e83024c258aed351392c3e3e9", 
-    "754ea601f42e4857bdc2be631e8966d5", 
-    "aa42f45ad31e469186b5dedcca546b83"
+    "cc2b9f2dd2804de7b856472f3993503d", 
+    "1e13a14de7f8456a9d34e6d7f8af68c3", 
+    "2b5488c3427a4a61b67f149e1b6fdbe5", 
+    "aa42f45ad31e469186b5dedcca546b83", 
+    "754ea601f42e4857bdc2be631e8966d5"
   ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nAnda tidak mahu jatuh sakit semasa hamil.\r\n\r\nBasuh tangan dengan sabun. Galakkan keluarga anda membuat demikian juga. Tangan yang bersih membantu mencegah penyakit seperti radang paru-paru (pneumonia) dan cirit-birit.\r\n\r\nBasuh tangan anda:\r\n\r\n -  apabila anda pulang ke rumah\r\n\r\n - \tselepas anda menggunakan tandas\r\n\r\n - \tselepas menyentuh haiwan\r\n\r\n - \tsebelum memasak\r\n\r\n - \tselepas menangani telur, daging atau ikan mentah\r\n\r\n - \tsebelum anda makan\r\n\r\nBerikut ialah bagaimana untuk melakukannya:\r\n\r\n - \tAnda memerlukan air bersih dan sabun\r\n\r\n - \tLetak sabun pada tapak tangan\r\n\r\n - \tGosok kedua-dua tangan bersama sehingga berbuih\r\n\r\n - \tJika anda menggunakan seketul sabun, pusingkan di dalam tapak tangan sehingga berbuih\r\n\r\n - \tBasuh antara jari-jemari\r\n\r\n - \tPastikan anda basuh pergelangan tangan, tangan dan kuku\r\n\r\n - \tTeruskan basuh kedua tangan untuk sekurang-kurangnya 15 saat\r\n\r\n - \tBilas dengan air bersih\r\n\r\n - \tKeringkan tangan dengan tuala yang bersih\r\n\r\nAnda boleh menyediakan tempat membasuh ini dekat kawasan memasak atau berhampiran tandas.\r\n\r\nHanya dengan membasuh tangan anda, anda benar-benar boleh mengurangkan risiko penyakit seperti cirit-birit.\r\n\r\n", 
@@ -29,7 +29,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 31, 
+  "position": 30, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "may-why-wash-my-hands", 
   "uuid": "d450db2428584bbca156bfd83392ff01"
